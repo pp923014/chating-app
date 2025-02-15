@@ -30,45 +30,6 @@ A real-time chat application built using the **MERN (MongoDB, Express, React, No
 - Socket.io (for real-time communication)
 
 ---
-
-## Installation & Setup
-### 1. Clone the Repository
-```sh
-git clone https://github.com/yourusername/mern-chat-app.git
-cd mern-chat-app
-```
-
-### 2. Backend Setup
-```sh
-cd backend
-npm install
-```
-#### Environment Variables (`.env` file)
-Create a `.env` file in the `backend` directory and add:
-```env
-PORT=8000
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_secret_key
-```
-#### Run the Server
-```sh
-npm start
-```
-
----
-
-### 3. Frontend Setup
-```sh
-cd frontend
-npm install
-```
-#### Run the React App
-```sh
-npm run dev
-```
-
----
-
 ## API Endpoints
 ### User Authentication
 | Method | Endpoint               | Description             |
@@ -88,9 +49,14 @@ npm run dev
 ---
 
 ## Screenshots
-🚀 Coming soon..
+![3](https://github.com/user-attachments/assets/848901fb-f8f3-4bdd-a50f-b0e1145f602f)
+![2](https://github.com/user-attachments/assets/cc22da7e-bf9c-4080-9f8e-8413ecb1916c)
+![1](https://github.com/user-attachments/assets/b46f982d-3749-473a-a837-77ef6471e052)
+
 
 
 
 ## License
 This project is **MIT Licensed**.
+
+## Developed By Priyanshu Kumar Pandey
