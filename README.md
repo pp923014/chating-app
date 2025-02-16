@@ -1,4 +1,4 @@
-# Please visit to - https://github.com/pp923014/chatting-application
+
 # MERN Chatting App (Messenger)
 
 A real-time chat application built using the **MERN (MongoDB, Express, React, Node.js) stack**, where users can create accounts, send messages, and change the background theme.
